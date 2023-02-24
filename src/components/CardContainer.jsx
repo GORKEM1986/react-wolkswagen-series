@@ -10,7 +10,7 @@ const CardContainer = () => {
   return (
     <>
       <Form.Control
-        placeholder="Search Player..."
+        placeholder="Which Series..."
         type="search"
         className="w-50 m-auto "
         onChange={(e) => setSearch(e.target.value)}
