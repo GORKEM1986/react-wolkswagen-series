@@ -1,4 +1,4 @@
-https://app.netlify.com/sites/react-wolkswagen-series/settings/general
+https://react-wolkswagen-series.netlify.app/
 
 
 # Getting Started with Create React App
